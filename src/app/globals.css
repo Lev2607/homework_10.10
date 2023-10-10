@@ -1,0 +1,57 @@
+/* styles.css */
+
+/* Allgemeine Styles für das Container-Div */
+div {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Styles für die Überschrift */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles für die Überschrift 2 */
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles für den Absatz */
+  p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Styles für die Buttons */
+  button {
+    background-color: #007bff; /* Blaue Hintergrundfarbe */
+    color: #fff; /* Weiße Schriftfarbe */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Dunklere Blaue Hintergrundfarbe bei Hover */
+  }
+  
+  /* Styles für die Liste */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  /* Abstand zwischen den Buttons */
+  br {
+    margin-bottom: 20px;
+  }
+  
